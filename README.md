@@ -1,16 +1,28 @@
-STM32 Synth
+# STM32 Synth
 
-A handheld digital synthesizer built on a custom PCB around the STM32F446ZET6. Hardware designed in Altium, firmware written in embedded C.
+Handheld digital synth on a custom STM32 PCB.
+Hardware in Altium, firmware in embedded C.
 
-Planned Features:
-Playable keys with waveform select (square, saw, triangle, sine)
-Pots for pitch, volume, and envelope control
-Audio output through the onboard 12-bit DAC to a speaker amp
-OLED display with rotary encoder menu
-MIDI input
+## Planned Features
 
-Hardware:
-MCU: STM32F446ZET6 (Cortex-M4F, 180 MHz)
-Display: SSD1306 OLED (I2C)
-Audio: DAC output, RC filter, PAM8302 amp
-Power: USB-C 5V input, 3.3V regulator
+- Keys with waveform select
+- Pots for pitch, volume, and envelope
+- 12-bit DAC audio out to a speaker amp
+- OLED display with encoder menu
+- MIDI input
+
+## Hardware
+
+- MCU: STM32F446RET6
+- Display: SSD1306 OLED (I2C)
+- Audio: DAC, RC filter, PAM8302 amp
+- Power: USB-C 5V, 3.3V regulator
+
+## Repo Structure
+
+- `hardware/` Altium files
+- `firmware/` STM32CubeIDE project
+
+## Status
+
+In progress. Working on the schematic.
