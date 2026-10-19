@@ -1,0 +1,14 @@
+# Altium
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.$$$*
+~*
+
+# STM32CubeIDE build output
+Debug/
+Release/
