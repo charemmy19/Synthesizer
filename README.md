@@ -9,7 +9,6 @@ Hardware in Altium, firmware in embedded C.
 - Pots for pitch, volume, and envelope
 - 12-bit DAC audio out to a speaker amp
 - OLED display with encoder menu
-- MIDI input
 
 ## Hardware
 
