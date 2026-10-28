@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JCDENRJE
 
 [Document4]
+DocumentPath=..\..\..\..\..\..\Downloads\PMEG40T10ERX\PMEG40T10ERX.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZVZYASRK
+
+[Document5]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDQFIPPA
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\..\..\..\Downloads\USB4105-GF-A-120\USB4105-GF-A-120.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SACPRBAN
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\..\..\Downloads\PG151101S11\SW_PG151101S11.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCICPGKS
 
-[Document7]
+[Document8]
+DocumentPath=..\..\..\..\..\..\Downloads\PMEG40T10ERX\PMEG40T10ERX.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IOOBMBYV
+
+[Document9]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CIXNQFSD
 
-[Document8]
+[Document10]
 DocumentPath=..\..\..\..\..\..\Downloads\USB4105-GF-A-120\GCT_USB4105-GF-A-120.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RILBQSUO
 
-[Document9]
+[Document11]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFWZNPSB
 
-[Document10]
+[Document12]
 DocumentPath=Audio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
