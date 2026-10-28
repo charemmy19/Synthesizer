@@ -1,11 +1,11 @@
 # STM32 Synth
 
-Handheld digital synth on a custom STM32 PCB.
+Handheld digital synth
 Hardware in Altium, firmware in embedded C.
 
 ## Planned Features
 
-- Keys with waveform select
+- Capacitive touch for notes + octave
 - Pots for pitch, volume, and envelope
 - 12-bit DAC audio out to a speaker amp
 - OLED display with encoder menu
@@ -13,9 +13,9 @@ Hardware in Altium, firmware in embedded C.
 ## Hardware
 
 - MCU: STM32F446RET6
-- Display: SSD1306 OLED (I2C)
+- Display: TBD
 - Audio: DAC, RC filter, PAM8302 amp
-- Power: USB-C 5V, 3.3V regulator
+- Power: USB-C 5V to charge LiPo, 3.3V regulator
 
 ## Repo Structure
 
