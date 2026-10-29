@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
+DocumentPath=..\..\..\..\..\..\Downloads\RK09K1130A6S\RK09K1130A6S.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HYJVALHK
+
+[Document4]
 DocumentPath=..\..\..\..\..\..\Downloads\PG151101S11\PG151101S11.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCDENRJE
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\..\..\..\Downloads\PMEG40T10ERX\PMEG40T10ERX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVZYASRK
 
-[Document5]
+[Document6]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDQFIPPA
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\..\..\Downloads\USB4105-GF-A-120\USB4105-GF-A-120.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SACPRBAN
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\..\..\..\Downloads\PG151101S11\SW_PG151101S11.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCICPGKS
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\..\..\..\Downloads\PMEG40T10ERX\PMEG40T10ERX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOOBMBYV
 
-[Document9]
+[Document10]
+DocumentPath=..\..\..\..\..\..\Downloads\RK09K1130A6S\RK09K1130A6S.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XLACXPDR
+
+[Document11]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CIXNQFSD
 
-[Document10]
+[Document12]
 DocumentPath=..\..\..\..\..\..\Downloads\USB4105-GF-A-120\GCT_USB4105-GF-A-120.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RILBQSUO
 
-[Document11]
+[Document13]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFWZNPSB
 
-[Document12]
+[Document14]
 DocumentPath=Audio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXLZSPQR
 
-[Document13]
+[Document15]
 DocumentPath=synth.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,6 +303,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQMWUDIP
+
+[Document16]
+DocumentPath=touchpad_star_20mm.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NONAHNCE
 
 [Configuration1]
 Name=Sources
